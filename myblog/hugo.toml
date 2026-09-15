@@ -2,3 +2,16 @@ baseURL = 'https://musicfolk.github.io/'
 languageCode = 'lt-lt'
 title = 'Exceptional website'
 theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    identifier = 'apie'
+    name = 'Apie'
+    url = '/apie/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Įrašai'
+    url = '/posts/'
+    weight = 20
