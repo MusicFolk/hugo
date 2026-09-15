@@ -1,0 +1,4 @@
+baseURL = 'https://musicfolk.github.io/'
+languageCode = 'lt-lt'
+title = 'Exceptional website'
+theme = 'PaperMod'

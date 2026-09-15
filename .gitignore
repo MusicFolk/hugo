@@ -1,0 +1,4 @@
+.DS_Store
+**/.DS_Store
+myblog/resources/_gen/
+myblog/.hugo_build.lock
